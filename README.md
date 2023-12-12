@@ -1,4 +1,10 @@
-# Gerador de Senha
+# 🔑 Gerador de Senha
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/Gerador-de-senha-personalizavel?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/Gerador-de-senha-personalizavel?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LeonardoMarconi/Gerador-de-senha-personalizavel?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoMarconi/Gerador-de-senha-personalizavel?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LeonardoMarconi/Gerador-de-senha-personalizavel?style=for-the-badge)
+
 Aplicação feita para gerar senhas aleatórias, fortes de 4 a 64 caracteres.
 
 ## ✨ Tecnologias
